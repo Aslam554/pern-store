@@ -49,6 +49,18 @@ const SAMPLE_PRODUCTS = [
     image:
       "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&auto=format&fit=crop&q=60",
   },
+  {
+    name: "Smart Home Speaker",
+    price: 159.99,
+    image:
+      "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=800&auto=format&fit=crop&q=60",
+  },
+  {
+    name: "LED Gaming Monitor",
+    price: 449.99,
+    image:
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&auto=format&fit=crop&q=60",
+  },
 ];
 
 async function seedDatabase() {
